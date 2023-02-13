@@ -1,0 +1,2 @@
+# patikadevproje
+www.patikadev.com
